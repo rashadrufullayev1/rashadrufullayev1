@@ -1,4 +1,4 @@
-[![MasterHead](https://gist.github.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897)
+ [![MasterHead](https://gist.github.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif)
 <h1 align="center">Hi 👋, I'm Rashad Rufullayev</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 
